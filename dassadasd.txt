@@ -1,0 +1,23 @@
+#klasy
+- person 
+-address 
+-student 
+-profesor
+#atrybuty i typy danych
+-Name STRNG
+-SURNAME SRTING
+-age int
+-Street string
+-city string
+-State string
+-postal code String
+-Country string
+-student number int
+-avarage mark int
+-salary int
+#metody i typy danych(parametry i typy zwracane)
+-is eligible to enroll  Boolean
+-Get Seminars taken boolean  
+-validate boolean
+-output as label String
+-introduse our self String
